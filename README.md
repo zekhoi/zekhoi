@@ -62,6 +62,9 @@ A mathematics student who really likes technology, especially website and applic
   <a href="http://www.medium.com/@zekhoi" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
   </a> 
+  <a href="https://zekhoi.hashnode.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+  </a>
   <a href="https://www.dev.to/zekhoi" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a> 
