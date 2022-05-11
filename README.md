@@ -3,6 +3,7 @@ Hi 👋 My name is Khoironi Kurnia Syah
 
 Web Developer
 -------------
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zekhoi)
 
 A mathematics student who really likes technology, especially website and application. Currently studying Mathematics in Lambung Mangkurat University (8th semester). I love to code, design, and think. Fast learner, curious about something new, looking for problems to solve.
 
