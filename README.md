@@ -10,7 +10,7 @@ A mathematics student who really likes technology, especially website and applic
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Portfolio](https://zekhoi.my.id)
 * ✉️  You can contact me at [khoironidev@gmail.com](mailto:khoironidev@gmail.com)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Typescript and Golang
 
 ### Skills
 
