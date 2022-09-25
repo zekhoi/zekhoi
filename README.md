@@ -1,19 +1,23 @@
+![Midori](https://c.tenor.com/KKZjG8ME-RkAAAAC/blue-archive-midori.gif)
+
 Hi 👋 My name is Khoironi Kurnia Syah
 =====================================
 
-Developer
--------------
+## Developer
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zekhoi)
 
 A mathematics student who really likes technology, especially website and application. Currently studying Mathematics in Lambung Mangkurat University (9th semester). I love to code, design, and think. Fast learner, curious about something new, looking for problems to solve.
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Portfolio](https://zekhoi.my.id)
-* ✉️  You can contact me at [khoironidev@gmail.com](mailto:khoironidev@gmail.com)
-* 🧠  I'm learning Typescript and Golang
+- 🌍  I'm based in Indonesia
+- 🖥️  See my portfolio at [Portfolio](https://zekhoi.my.id)
+- ✉️  You can contact me at [khoironidev@gmail.com](mailto:khoironidev@gmail.com)
+- 🧠  I'm learning Typescript and Golang
 
 ### Skills
 
+<details>
+  <summary>My Skills</summary>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -36,10 +40,12 @@ A mathematics student who really likes technology, especially website and applic
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+</details>
 
 ### Socials
 
+<details>
+  <summary>My Socials</summary>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/khoironiks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
@@ -74,9 +80,12 @@ A mathematics student who really likes technology, especially website and applic
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a> 
 </p>
+</details>
 
-### Badges
+### Statistics
 
+<details>
+  <summary>My Statistics</summary>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/zekhoi"><img src="https://github-readme-stats.vercel.app/api?username=zekhoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="zekhoi's GitHub stats" /></a>
@@ -88,3 +97,5 @@ A mathematics student who really likes technology, especially website and applic
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/zekhoi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+</details>
