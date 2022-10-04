@@ -10,7 +10,7 @@ Hi 👋 My name is Khoironi Kurnia Syah
 A mathematics student who really likes technology, especially website and application. Currently studying Mathematics in Lambung Mangkurat University (9th semester). I love to code, design, and think. Fast learner, curious about something new, looking for problems to solve.
 
 - 🌍  I'm based in Indonesia
-- 🖥️  See my portfolio at [Portfolio](https://zekhoi.my.id)
+- 🖥️  See my portfolio at [Portfolio](https://zekhoi.dev)
 - ✉️  You can contact me at [khoironidev@gmail.com](mailto:khoironidev@gmail.com)
 - 🧠  I'm learning Typescript and Golang
 
