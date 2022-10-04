@@ -3,7 +3,7 @@
 Hi 👋 My name is Khoironi Kurnia Syah
 =====================================
 
-## Developer
+## Software Engineer wannabe
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zekhoi)
 
