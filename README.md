@@ -6,8 +6,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zekhoi)
 
+### About Me
+
 <details>
-    <summary>About me</summary>
+    <summary>About Me</summary>
 A mathematics student who really likes technology, especially website and application. Currently studying Mathematics in Lambung Mangkurat University (9th semester). I love to code, design, and think. Fast learner, curious about something new, looking for problems to solve.
 
 - 🌍  I'm based in Indonesia
