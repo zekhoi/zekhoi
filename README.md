@@ -1,18 +1,21 @@
 ![Midori](https://c.tenor.com/KKZjG8ME-RkAAAAC/blue-archive-midori.gif)
 
-Hi 👋 My name is Khoironi Kurnia Syah
-=====================================
+# Hi 👋 My name is Khoironi Kurnia Syah
 
 ## Software Engineer wannabe
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zekhoi)
 
+<details>
+    <summary>About me</summary>
 A mathematics student who really likes technology, especially website and application. Currently studying Mathematics in Lambung Mangkurat University (9th semester). I love to code, design, and think. Fast learner, curious about something new, looking for problems to solve.
 
 - 🌍  I'm based in Indonesia
 - 🖥️  See my portfolio at [Portfolio](https://zekhoi.dev)
 - ✉️  You can contact me at [khoironidev@gmail.com](mailto:khoironidev@gmail.com)
 - 🧠  I'm learning Typescript and Golang
+
+</details>
 
 ### Skills
 
@@ -85,8 +88,7 @@ A mathematics student who really likes technology, especially website and applic
 ### Statistics
 
 <details>
-  <summary>My Statistics</summary>
-<b>My GitHub Stats</b>
+    <summary>My Statistics</summary>
 
 <a href="http://www.github.com/zekhoi"><img src="https://github-readme-stats.vercel.app/api?username=zekhoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="zekhoi's GitHub stats" /></a>
 
