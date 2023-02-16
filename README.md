@@ -1,4 +1,7 @@
-![Midori](https://c.tenor.com/KKZjG8ME-RkAAAAC/blue-archive-midori.gif)
+<p align="center">
+  <img alt="Game Development Department" src="https://user-images.githubusercontent.com/55708473/219477117-bbd9b2d9-123f-4f7b-afbf-48292c94ff0c.png">
+</p>
+
 
 # Hi 👋 My name is Khoironi Kurnia Syah
 
