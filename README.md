@@ -101,6 +101,19 @@ Mathematics student who really likes technology, especially website and applicat
 <a href="http://www.github.com/zekhoi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zekhoi&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 December 2021 - To: 02 August 2023
+
+Total Time: 369 hrs 22 mins
+
+JavaScript                 206 hrs 16 mins ██████████████░░░░░░░░░░░   55.84 %
+TypeScript                 97 hrs 36 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+PHP                        11 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JSON                       10 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Bash                       9 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Support Me
