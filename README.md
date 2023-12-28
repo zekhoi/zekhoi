@@ -103,20 +103,20 @@ Mathematics student who really likes technology, especially website and applicat
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2021 - To: 25 December 2023
+From: 13 December 2021 - To: 26 December 2023
 
-Total Time: 897 hrs 10 mins
+Total Time: 898 hrs 17 mins
 
-TypeScript                 500 hrs 31 mins ██████████████░░░░░░░░░░░   55.79 %
-JavaScript                 224 hrs 29 mins ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Python                     71 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-JSON                       26 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+TypeScript                 501 hrs 20 mins ██████████████░░░░░░░░░░░   55.81 %
+JavaScript                 224 hrs 29 mins ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
+Python                     71 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+JSON                       27 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 PHP                        11 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Bash                       11 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Other                      11 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other                      11 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 YAML                       7 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 Vue.js                     7 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Markdown                   6 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Markdown                   6 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
