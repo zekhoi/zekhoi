@@ -1,7 +1,6 @@
 <p align="center">
-  <img alt="Product Engineer 01" src="https://github.com/zekhoi/zekhoi/assets/55708473/d2c63946-0099-4107-84e9-27d2518e9a77">
+  <img alt="Product Engineer 01" src="https://github.com/zekhoi/zekhoi/assets/55708473/b609dc13-7958-403f-ae69-71dfa3c609c3">
 </p>
-
 
 # Hi 👋 My name is Khoironi Kurnia Syah
 
