@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Game Development Department" src="https://user-images.githubusercontent.com/55708473/219477117-bbd9b2d9-123f-4f7b-afbf-48292c94ff0c.png">
+  <img alt="Product Engineer 01" src="https://github.com/zekhoi/zekhoi/assets/55708473/d2c63946-0099-4107-84e9-27d2518e9a77">
 </p>
 
 
