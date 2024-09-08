@@ -102,7 +102,7 @@ Mathematics student who really likes technology, especially website and applicat
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2021 - To: 06 September 2024
+From: 13 December 2021 - To: 07 September 2024
 
 Total Time: 1,626 hrs 15 mins
 
