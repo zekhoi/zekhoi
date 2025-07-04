@@ -102,20 +102,20 @@ Mathematics student who really likes technology, especially website and applicat
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2021 - To: 02 July 2025
+From: 13 December 2021 - To: 03 July 2025
 
-Total Time: 2,351 hrs 54 mins
+Total Time: 2,353 hrs 46 mins
 
-TypeScript                 1,414 hrs 45 mins███████████████░░░░░░░░░░   60.15 %
-Python                     399 hrs 58 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-JavaScript                 293 hrs 36 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+TypeScript                 1,414 hrs 57 mins███████████████░░░░░░░░░░   60.11 %
+Python                     401 hrs 9 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+JavaScript                 293 hrs 36 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
 JSON                       44 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Bash                       36 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-YAML                       24 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-CSV                        24 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Bash                       36 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+YAML                       24 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+CSV                        24 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 Other                      21 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Docker                     18 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Markdown                   14 hrs 9 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Docker                     18 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Markdown                   14 hrs 10 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
