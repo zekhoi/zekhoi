@@ -102,12 +102,12 @@ Mathematics student who really likes technology, especially website and applicat
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2021 - To: 11 August 2025
+From: 13 December 2021 - To: 12 August 2025
 
-Total Time: 2,434 hrs 7 mins
+Total Time: 2,434 hrs 41 mins
 
-TypeScript                 1,446 hrs 28 mins███████████████░░░░░░░░░░   59.42 %
-Python                     443 hrs 40 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+TypeScript                 1,447 hrs 1 min ███████████████░░░░░░░░░░   59.43 %
+Python                     443 hrs 40 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
 JavaScript                 293 hrs 51 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
 JSON                       45 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 Bash                       39 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
